@@ -83,6 +83,10 @@
     <Compile Include="Clients\Membership\UserPasswordRecoveryClient.cs" />
     <Compile Include="Clients\Membership\UserClient.cs" />
     <Compile Include="Clients\Membership\RoleClient.cs" />
+    <Compile Include="Clients\Metering\IMeteringCategoryClient.cs" />
+    <Compile Include="Clients\Metering\IMeteringDataClient.cs" />
+    <Compile Include="Clients\Metering\MeteringCategoryClient.cs" />
+    <Compile Include="Clients\Metering\MeteringDataClient.cs" />
     <Compile Include="Clients\Notifications\INotificationClient.cs" />
     <Compile Include="Clients\Notifications\NotificationClient.cs" />
     <Compile Include="Clients\Profile\IProfileClient.cs" />
